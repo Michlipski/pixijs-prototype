@@ -1,6 +1,6 @@
-# pixi-tutorial
+# pixi-prototype
 
-> A tutorial for using pixijs with vue
+> A prototype for using pixijs with vue
 
 ## Build Setup
 
@@ -17,6 +17,3 @@ $ npm run start
 
 # generate static project
 $ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
